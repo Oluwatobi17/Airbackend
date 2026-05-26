@@ -162,5 +162,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
-EMAIL_HOST_USER = 'ibdac2000@gmail.com'  # Replace with your email address
-EMAIL_HOST_PASSWORD = 'wgog gmwi tvlr osuq'  # Replace with your email password
+EMAIL_HOST_USER = 'beewtyful3310@gmail.com'  # Replace with your email address
+EMAIL_HOST_PASSWORD = 'bzer zrmb kyoo nuwi'  # Replace with your email password
